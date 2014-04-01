@@ -81,6 +81,6 @@ public class EjercicioArrays extends JFrame {
 	
 	//Método que guarda 3 números en el array
 	private void guardarNumeros(int numero1,int numero2, int numero3){
-		
+		//Aqui va el contenido
 	}
 }
